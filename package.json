@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "hells-mate-temp-backend",
   "version": "1.0.0",
   "description": "temporary backend for user test for hells mate",
