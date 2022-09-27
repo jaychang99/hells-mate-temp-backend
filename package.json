@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jaychang99/hells-mate-temp-backend/issues"
   },
-  "homepage": "https://github.com/jaychang99/hells-mate-temp-backend#readme"
+  "homepage": "https://github.com/jaychang99/hells-mate-temp-backend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
